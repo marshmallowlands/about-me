@@ -1,0 +1,32 @@
+* {
+    font-family: 'HarmonyOSHans', 'Inter', 'Segoe UI Variable Display', 'Segoe UI', 'Sarasa UI SC', 'PingFang SC', 'Microsoft Yahei UI', 'Noto Sans CJK SC', 'Noto Sans SC', sans-serif;
+}
+
+#top-bar {
+    background-color: rgba(255, 255, 255, 0.75);
+    backdrop-filter: blur(50px) saturate(500%);
+}
+
+#what-can-i-do {
+    background: linear-gradient(120deg, #d63384 0, #fd7e14 140%);
+}
+
+#pdtp {
+    padding-top: 6rem !important;
+}
+
+#music-favorite {
+    background-image: url("../img/Близкиелюди.jpg");
+    background-size: 100%;
+    background-repeat: space;
+}
+
+#game-favorite {
+    background-image: url("../img/death-stranding.jpg");
+    background-size: 100%;
+    background-repeat: space;
+}
+
+#focus-favorite {
+    background: linear-gradient(120deg, #228d31 0, #89b789 100%);
+}
