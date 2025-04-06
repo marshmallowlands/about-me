@@ -2,12 +2,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 
 * {
-    font-family: 'Roboto', 'Roboto Flex', 'HarmonyOSHans', 'Noto Sans SC', 'Segoe UI Variable Text', 'Roboto Flex', 'Roboto', 'Segoe UI', 'Inter', 'Sarasa UI SC', 'PingFang SC', 'Microsoft Yahei UI', 'Noto Sans CJK SC', 'Noto Sans SC', sans-serif;
+    font-family: 'Roboto', 'Roboto Flex', 'Noto Sans CJK SC', 'HarmonyOSHans', 'Noto Sans SC', 'Segoe UI Variable Text', 'Roboto Flex', 'Roboto', 'Segoe UI', 'Inter', 'Sarasa UI SC', 'PingFang SC', 'Microsoft Yahei UI', 'Noto Sans CJK SC', 'Noto Sans SC', sans-serif;
 }
 
 #top-bar {
-    background-color: rgba(255, 255, 255, 0.65);
-    backdrop-filter: blur(50px) saturate(500%);
+    background-color: rgba(255, 255, 255, 0.84);
+    backdrop-filter: blur(50px) saturate(200%);
 }
 
 #what-can-i-do {
@@ -19,7 +19,7 @@
 }
 
 #music-favorite {
-    background-image: url("../img/Близкиелюди.jpg");
+    background-image: url("../img/109951170656655129.jpg");
     background-size: 100%;
     background-repeat: space;
 }
